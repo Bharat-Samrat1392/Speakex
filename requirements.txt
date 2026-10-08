@@ -1,0 +1,15 @@
+streamlit>=1.36,<2
+faster-whisper>=1.1,<2
+av>=14,<19
+numpy>=1.26
+torch>=2.8
+pyannote.audio>=4.0,<5
+openai>=1.40,<3
+pydantic>=2.7,<3
+python-dotenv>=1.0,<2
+pytest>=8,<9
+fastapi
+uvicorn
+python-multipart
+httpx
+pytest-asyncio

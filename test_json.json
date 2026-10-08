@@ -1,0 +1,109 @@
+﻿{
+    "schema_version":  "1.1",
+    "source_filename":  "clip_10.mp4",
+    "speakers":  [
+                     "SPEAKER_00",
+                     "SPEAKER_01",
+                     "SPEAKER_02"
+                 ],
+    "raw_transcript":  "SPEAKER_00: called earth hotels. Ah, nah, brand here. It\u0027s in partnership with three Lebanese guys. It\u0027s us in them. We\u0027re opening five hotels in the next 18 months, kind of thing. First one is almost open in Dubai. J1 pair. I\u0027m only an experiential hotel. Oh, salagra. Chalagra? 40, 15 rooms.\n\nSPEAKER_02: It\u0027s so bad to us, it\u0027s 30 at rooms.\n\nSPEAKER_00: But, once you open, save you open 5 hotels in the next 2 years. Jabba, B -3 is cold though, okay, won\u0027t it become like a large hotel anyway?\n\nSPEAKER_02: No.\n\nSPEAKER_00: How do you retain the\n\nSPEAKER_02: boutique nature of something? By not doing everything to get business, just pick up good locations. So there has been a good boutique brand done by people of Indian origin, also sold to story or called Citizen M, it\u0027s literally. Citizen M did a good job. You went 25 hours just 25 hours is very good, but they got very lucky with the start. So they started with bikini Berlin with a monkey bar. That monkey bar became more famous because it\u0027s overlooking the zoo. To put up bad news, it\u0027s not normal seating. You have all these like steps in Indian style got thus. So it did very well and then is nothing succeed like success. So we actually\n\nSPEAKER_00: modeled after this only. It is an event 25th hour.\n\nSPEAKER_01: Absolutely. There you go. I\u0027ve stayed in Switzerland and I was beautiful. The concept of the other good thing about experiential also you can leverage technology quite a\n\nSPEAKER_00: So,\n\nSPEAKER_01: it is an M also does it, you know, you do not have to, you can bring in the touch and all, but you can also do bring in better high quality experience, which is powered by technology.\n\nSPEAKER_02: And it is easier for people who are non -mutants, so it is an M who started by a guy who sold But Max took a list clear on, you know, for, whatever, 800, 900 million pounds or a million pounds. And then for his kids he thought he would do something and he bought a yacht and there is him that. Those kisturitumujer malubha.\n\nSPEAKER_01: Very interesting. But it\u0027s very powerful point, by the way, just wanted to build on this, that it is better build by non -utiliar. So sometimes if you have to do auto box thing you don\u0027t have to get the same person from the industry. Right. There is so much of baggage, legacy, etc. I remember even in make my trip and we were setting it up. None of us knew travel. No, not even one person except one co -founder.",
+    "raw_segments":  [
+                         {
+                             "start":  0.0,
+                             "end":  24.4,
+                             "speaker":  "SPEAKER_00",
+                             "text":  "called earth hotels. Ah, nah, brand here. It\u0027s in partnership with three Lebanese guys. It\u0027s us in them. We\u0027re opening five hotels in the next 18 months, kind of thing. First one is almost open in Dubai. J1 pair. I\u0027m only an experiential hotel. Oh, salagra. Chalagra? 40, 15 rooms."
+                         },
+                         {
+                             "start":  25.36,
+                             "end":  27.18,
+                             "speaker":  "SPEAKER_02",
+                             "text":  "It\u0027s so bad to us, it\u0027s 30 at rooms."
+                         },
+                         {
+                             "start":  27.18,
+                             "end":  38.4,
+                             "speaker":  "SPEAKER_00",
+                             "text":  "But, once you open, save you open 5 hotels in the next 2 years. Jabba, B -3 is cold though, okay, won\u0027t it become like a large hotel anyway?"
+                         },
+                         {
+                             "start":  39.36,
+                             "end":  39.38,
+                             "speaker":  "SPEAKER_02",
+                             "text":  "No."
+                         },
+                         {
+                             "start":  39.9,
+                             "end":  40.88,
+                             "speaker":  "SPEAKER_00",
+                             "text":  "How do you retain the"
+                         },
+                         {
+                             "start":  40.88,
+                             "end":  95.22,
+                             "speaker":  "SPEAKER_02",
+                             "text":  "boutique nature of something? By not doing everything to get business, just pick up good locations. So there has been a good boutique brand done by people of Indian origin, also sold to story or called Citizen M, it\u0027s literally. Citizen M did a good job. You went 25 hours just 25 hours is very good, but they got very lucky with the start. So they started with bikini Berlin with a monkey bar. That monkey bar became more famous because it\u0027s overlooking the zoo. To put up bad news, it\u0027s not normal seating. You have all these like steps in Indian style got thus. So it did very well and then is nothing succeed like success. So we actually"
+                         },
+                         {
+                             "start":  95.22,
+                             "end":  98.14,
+                             "speaker":  "SPEAKER_00",
+                             "text":  "modeled after this only. It is an event 25th hour."
+                         },
+                         {
+                             "start":  98.96,
+                             "end":  106.88,
+                             "speaker":  "SPEAKER_01",
+                             "text":  "Absolutely. There you go. I\u0027ve stayed in Switzerland and I was beautiful. The concept of the other good thing about experiential also you can leverage technology quite a"
+                         },
+                         {
+                             "start":  107.46,
+                             "end":  107.94,
+                             "speaker":  "SPEAKER_00",
+                             "text":  "So,"
+                         },
+                         {
+                             "start":  107.94,
+                             "end":  119.52,
+                             "speaker":  "SPEAKER_01",
+                             "text":  "it is an M also does it, you know, you do not have to, you can bring in the touch and all, but you can also do bring in better high quality experience, which is powered by technology."
+                         },
+                         {
+                             "start":  120.68,
+                             "end":  148.6,
+                             "speaker":  "SPEAKER_02",
+                             "text":  "And it is easier for people who are non -mutants, so it is an M who started by a guy who sold But Max took a list clear on, you know, for, whatever, 800, 900 million pounds or a million pounds. And then for his kids he thought he would do something and he bought a yacht and there is him that. Those kisturitumujer malubha."
+                         },
+                         {
+                             "start":  149.64,
+                             "end":  174.66,
+                             "speaker":  "SPEAKER_01",
+                             "text":  "Very interesting. But it\u0027s very powerful point, by the way, just wanted to build on this, that it is better build by non -utiliar. So sometimes if you have to do auto box thing you don\u0027t have to get the same person from the industry. Right. There is so much of baggage, legacy, etc. I remember even in make my trip and we were setting it up. None of us knew travel. No, not even one person except one co -founder."
+                         }
+                     ],
+    "refined_transcript":  "SPEAKER_00: called Earth Hotels. Ah, nah, brand here. It\u0027s in partnership with three Lebanese guys. It\u0027s us and them. We\u0027re opening five hotels in the next 18 months, kind of thing. First one is almost open in Dubai. J1 pair. I\u0027m only an experiential hotel. Oh, Salagra? Chalagra? 40, 15 rooms.\n\nSPEAKER_02: It\u0027s so bad for us, it\u0027s 30 rooms.\n\nSPEAKER_00: But, once you open, save you open 5 hotels in the next 2 years. Jabba, Bâ3 is cold though, okay, won\u0027t it become like a large hotel anyway?\n\nSPEAKER_02: No.\n\nSPEAKER_00: How do you retain the\n\nSPEAKER_02: boutique nature of something? By not doing everything to get business, just pick good locations. So there has been a good boutique brand done by people of Indian origin, also called Citizenâ¯M, it\u0027s literally. Citizenâ¯M did a good job. You went 25â¯hours, just 25â¯hours is very good, but they got very lucky with the start. So they started with Bikini Berlin with a monkey bar. That monkey bar became more famous because it\u0027s overlooking the zoo. To put up bad news, it\u0027s not normal seating. You have all these like steps in Indian style, got this. So it did very well and then is nothing succeed like success. So we actually\n\nSPEAKER_00: modeled after this only. It is an event 25th hour.\n\nSPEAKER_01: Absolutely. There you go. I\u0027ve stayed in Switzerland and it was beautiful. The concept of the other good thing about experiential also you can leverage technology quite a\n\nSPEAKER_00: So,\n\nSPEAKER_01: it is an M also does it, you know, you do not have to, you can bring in the touch and all, but you can also bring in better highâquality experience, which is powered by technology.\n\nSPEAKER_02: And it is easier for people who are nonâmutants, so it is an M who started by a guy who sold but Max took a list clear on, you know, for, whatever, 800, 900 million pounds or a million pounds. And then for his kids he thought he would do something and he bought a yacht and there is him that. Those kisturitumujer malubha.\n\nSPEAKER_01: Very interesting. But it\u0027s a very powerful point, by the way, just wanted to build on this, that it is better built by nonâutiliar. So sometimes if you have to do autoâbox thing you don\u0027t have to get the same person from the industry. Right. There is so much baggage, legacy, etc. I remember even in MakeMyTrip and we were setting it up. None of us knew travel. No, not even one person except one coâfounder.",
+    "analysis":  {
+                     "summary":  "The participants discussed the Earth Hotels partnership to open five experiential boutique hotels over the next 18â24 months, referencing the first Dubai location and drawing inspiration from Citizenâ¯Mâs boutique model and technologyâenhanced experiences, while considering how to retain a boutique feel.",
+                     "minutes":  [
+                                     "SPEAKER_00 introduced Earth Hotels, a partnership with three Lebanese partners, aiming to open five hotels in the next 18 months, with the first nearâcompletion in Dubai and mentioned room counts (40, 15).",
+                                     "SPEAKER_02 commented on a 30âroom size being problematic.",
+                                     "SPEAKER_00 reiterated the goal of opening five hotels in two years and asked whether a specific property would become a large hotel; SPEAKER_02 responded \"No.\"",
+                                     "SPEAKER_00 asked how to retain the boutique nature of the hotels.",
+                                     "SPEAKER_02 suggested maintaining boutique character by selecting good locations and cited Citizenâ¯Mâs successful boutique approach, including the Bikini Berlin property with a notable monkey bar.",
+                                     "SPEAKER_00 noted the model is based on that example and referenced a \"25th hour\" event.",
+                                     "SPEAKER_01 shared personal experience in Switzerland, highlighted the experiential concept, and emphasized leveraging technology for highâquality experiences.",
+                                     "SPEAKER_01 further explained that technology can enhance the guest experience without relying on traditional industry expertise.",
+                                     "SPEAKER_02 made a fragmented comment about the origins of the Citizenâ¯M concept and related financial figures, though the details were unclear.",
+                                     "SPEAKER_01 reflected on building experiences without industryâspecific baggage, citing MakeMyTripâs early days where only one coâfounder had travel experience."
+                                 ],
+                     "decisions":  [
+
+                                   ],
+                     "action_items":  [
+
+                                      ]
+                 },
+    "warnings":  [
+
+                 ]
+}
